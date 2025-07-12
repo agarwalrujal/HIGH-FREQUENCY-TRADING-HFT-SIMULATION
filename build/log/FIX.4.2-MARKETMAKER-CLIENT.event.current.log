@@ -1,0 +1,10 @@
+20250609-18:50:12.000000000 : Created session
+20250609-18:50:19.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20250609-18:50:19.000000000 : Received logon request
+20250609-18:50:19.000000000 : Responding to logon request
+20250609-18:50:19.000000000 : Allows connections to the acceptor from 127.0.0.1
+20250609-18:55:05.000000000 : Created session
+20250609-18:55:08.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20250609-18:55:08.000000000 : Received logon request
+20250609-18:55:08.000000000 : Responding to logon request
+20250609-18:55:08.000000000 : Allows connections to the acceptor from 127.0.0.1

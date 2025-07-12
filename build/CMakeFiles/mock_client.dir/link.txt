@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/mock_client.dir/src/main_mock_client.cpp.o CMakeFiles/mock_client.dir/src/MockTradeClient.cpp.o -o mock_client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libquickfix.dylib

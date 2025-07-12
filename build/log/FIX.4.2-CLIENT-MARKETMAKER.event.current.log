@@ -1,0 +1,27 @@
+20250609-18:50:19.000000000 : Created session
+20250609-18:50:19.000000000 : Connecting to 127.0.0.1 on port 9876 (Source :0) ReconnectInterval=5
+20250609-18:50:19.000000000 : Initiated logon request
+20250609-18:50:19.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20250609-18:50:19.000000000 : Received logon response
+20250609-18:50:27.000000000 : Message 2 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:29.000000000 : Message 3 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:32.000000000 : Message 4 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:37.000000000 : Message 5 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:39.000000000 : Message 6 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:41.000000000 : Message 7 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:44.000000000 : Message 8 Rejected: Conditionally Required Field Missing:38
+20250609-18:50:44.000000000 : Socket Error: Connection reset by peer.
+20250609-18:50:44.000000000 : Disconnecting
+20250609-18:50:49.000000000 : Connecting to 127.0.0.1 on port 9876 (Source :0) ReconnectInterval=5
+20250609-18:55:08.000000000 : Created session
+20250609-18:55:08.000000000 : Connecting to 127.0.0.1 on port 9876 (Source :0) ReconnectInterval=5
+20250609-18:55:08.000000000 : Initiated logon request
+20250609-18:55:08.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20250609-18:55:08.000000000 : Received logon response
+20250609-18:55:11.000000000 : Message 2 Rejected: Conditionally Required Field Missing:38
+20250609-18:55:19.000000000 : Message 3 Rejected: Conditionally Required Field Missing:38
+20250609-18:55:26.000000000 : Message 4 Rejected: Conditionally Required Field Missing:38
+20250609-18:55:31.000000000 : Message 5 Rejected: Conditionally Required Field Missing:38
+20250609-18:55:31.000000000 : Socket Error: Connection reset by peer.
+20250609-18:55:31.000000000 : Disconnecting
+20250609-18:55:33.000000000 : Connecting to 127.0.0.1 on port 9876 (Source :0) ReconnectInterval=5
